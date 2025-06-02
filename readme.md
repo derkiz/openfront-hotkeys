@@ -2,7 +2,6 @@
 
 This script automates mouse movements and clicks for various in-game actions on [openfront.io](https://openfront.io). It uses hotkeys to trigger sequences like sending boats, executing a big blast, nuking, working as a port, and more.
 
-> **Note:** The hotkey for cities is actually **V** (not C).  
 > **Note:** To find the correct X, Y coordinates for your screen, use `coords.py` to fill out the target values manually in app.py.
 
 ## Features (All keys can be modified in by changing app.py)
